@@ -1,0 +1,61 @@
+<html>
+	<head>
+		<link rel = “stylesheet” href = “.css”>
+		<title>HartiShop</title>
+	<head>
+	<body>
+<header>
+    <h1>HartiShop||Продажа видеокарт</h1>
+</header>
+<main>
+    <h2>
+        rtx 3060 ti цена 270000 рублей</h2>
+        <img src="https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Asus_ROG_Strix_GeForce_RTX_3060_Ti_video_card.jpg"
+        width="450px">
+        <h2> rtx 1080 ti </h2>
+        <img src="https://i.playground.ru/p/jCrfr0k5zYgJO5qvKmPUwg.jpeg" 
+        width= "450px">
+         <p> Наша компания уже 5 лет продает видеокарты по самым низким ценам,покупайте! by HartiShop </p>
+        </main>
+<footer>
+</footer>
+</body>
+</html>    
+
+
+body {
+    font-family: sans-serif;
+    background-color: orange;
+}
+
+header h1{
+X: -1283px;
+Y: -1307px;
+W: 483px;
+H: 47px;
+Font-family: Roboto;
+Font-style: Regular;
+Font-size: 32px;
+Line-height: 38px;
+Line-height: 100%;
+Align: Left;
+Vertical-align: Top;
+color:#a32929;
+effect: Drop shadow;
+radius: 4px;
+offset: 0px, 4px
+rgba(0, 0, 0, 0.25);
+background-color: orange;
+}
+
+main h2 {
+    text-align: center;
+    background-color: gray;
+    margin: 10px;
+}
+
+main p {
+    font-size: 30px;
+    color: white;
+}
+
